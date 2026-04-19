@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fiveminblocks.twa",
+    "sha256_cert_fingerprints": [
+      "6A:5A:02:63:99:E1:19:D0:28:1C:94:F1:2F:2A:34:43:17:A7:CA:E4:C0:1F:CD:12:23:E0:17:82:45:DD:E6:60"
+    ]
+  }
+}]
