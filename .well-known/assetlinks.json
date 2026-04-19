@@ -1,12 +1,10 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.use_as_origin"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.fiveminblocks.twa",
-      "sha256_cert_fingerprints": [
-        "E5:D3:B8:20:39:80:A5:2A:F6:C7:A0:1C:53:B4:78:8D:00:CB:68:4F:F6:C6:9D:5D:95:C6:A8:06:1F:4B:BC:67"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fiveminblocks.twa",
+    "sha256_cert_fingerprints": [
+      "6D:7C:B2:65:3E:5B:CE:52:48:49:5C:63:0B:EF:A7:71:FD:84:38:2D:72:DC:38:FD:7C:34:3E:23:13:52:BC:55"
+    ]
   }
-]
+}]
